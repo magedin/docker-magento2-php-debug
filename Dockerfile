@@ -1,5 +1,4 @@
-FROM magedin/magento2-php:8.1.10.5
-
+FROM magedin/magento2-php:7.4.30.4
 # BASE CONFIGURATION ---------------------------------------------------------------------------------------------------
 
 ## Enable XDebug by default
